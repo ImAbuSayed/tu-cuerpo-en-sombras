@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu cuerpo en sombras
+
+This log tracks the cryptographic history and versioning for the song **Tu cuerpo en sombras** (tu-cuerpo-en-sombras).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T00:28:49.775335 | `v1` | `81c85f8eb91ea8ddf4adba714818b9a382711ccfee72f60f30b4e33a3d776d4c` | `e3d110058e535a7149a39082903bb6dadd05ee9c9b122f9fd03d95aead7c015c` | `2026-06-20_tu-cuerpo-en-sombras-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

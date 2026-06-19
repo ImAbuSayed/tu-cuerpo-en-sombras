@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-cuerpo-en-sombras/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Tu cuerpo en sombras](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-en-sombras/) |
+| **Get License** | [Obtain a Music License for Tu cuerpo en sombras](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-en-sombras/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `81c85f8eb91ea8ddf4adba714818b9a382711ccfee72f60f30b4e33a3d776d4c` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

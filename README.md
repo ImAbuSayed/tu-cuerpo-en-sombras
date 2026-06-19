@@ -12,7 +12,7 @@
 |-------|---------|
 | **Title** | Tu cuerpo en sombras |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-cuerpo-en-sombras/) |
 | **License** | [View License](./LICENSE.md) |
 | **Get License** | [Music Rights & Licensing for Tu cuerpo en sombras](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-en-sombras/) |
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Bailando lenta, la noche es de cristal,
-> Tu cuerpo en sombras, un juego fenomenal.
-> Dime al oído lo que quieres probar,
-> Nadie en la disco nos puede separar.
+> Tu cuerpo en sombras, me llama sin voz
+> Bailamos lento, perdidos los dos
+> La noche es nuestra, no importa el reloj
+> Tu cuerpo en sombras, mi única obsesión
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

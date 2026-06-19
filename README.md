@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-cuerpo-en-sombras/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Tu cuerpo en sombras](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-en-sombras/) |
+| **Get License** | [Secure Licensing Rights for Tu cuerpo en sombras](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-en-sombras/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bailando lenta, la noche es de cristal,
+> Tu cuerpo en sombras, un juego fenomenal.
+> Dime al oído lo que quieres probar,
+> Nadie en la disco nos puede separar.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

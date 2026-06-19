@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Tu cuerp
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-20T00:28:49.775335 | `v1` | `81c85f8eb91ea8ddf4adba714818b9a382711ccfee72f60f30b4e33a3d776d4c` | `e3d110058e535a7149a39082903bb6dadd05ee9c9b122f9fd03d95aead7c015c` | `2026-06-20_tu-cuerpo-en-sombras-v1.txt` |
+| 2026-06-20T00:34:53.697357 | `v2` | `b44a7605bb116ad8b1b26cc368f876edb5390501d6e8f0dad5a5545bca4fda32` | `36d978958cda8fe8ea8191b2b8e2c68476fcbcbf344572ad8a2a0d7d54b5c90a` | `2026-06-20_tu-cuerpo-en-sombras-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
